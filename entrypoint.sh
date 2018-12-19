@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 printf "Started\n"
 printf "Username: $KBC_DEVELOPERPORTAL_USERNAME\n"
